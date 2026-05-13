@@ -30,6 +30,7 @@ The repositories below are the public-facing tools we maintain. Product source i
 |------|------------|
 | **[the-library](https://github.com/sevenbelowllc/the-library)** | The Library — an MCP server + skill suite that turns Claude Code into a project-aware librarian. Manages specs, plans, checkpoints, decisions, and PM sync. |
 | **[claude-tools](https://github.com/sevenbelowllc/claude-tools)** | Utilities, hooks, and helper scripts for working with the Claude Code agent harness. |
+| **[sevenbelow-resources](https://github.com/sevenbelowllc/sevenbelow-resources)** | Public resources — Claude Code skills, documentation, utilities, and one-off tools for the SevenBelow ecosystem. |
 
 ---
 
