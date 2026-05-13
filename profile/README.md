@@ -1,10 +1,14 @@
 <div align="center">
 
-# SevenBelow
+<img src="https://raw.githubusercontent.com/sevenbelowllc/.github/main/profile/assets/sevenbelow-wordmark.png" alt="SevenBelow" width="420" />
 
-**Compliance OS — multi-tenant compliance management for modern teams.**
+### Compliance OS — multi-tenant compliance management for modern teams
 
-[sevenbelow.com](https://www.sevenbelow.com) · [LinkedIn](https://www.linkedin.com/company/sevenbelow)
+[**sevenbelow.com**](https://www.sevenbelow.com) · [LinkedIn](https://www.linkedin.com/company/sevenbelow) · [dev@sevenbelow.com](mailto:dev@sevenbelow.com)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/sevenbelowllc/.github/main/profile/assets/sevenbelow-bug.png" alt="" width="96" />
 
 </div>
 
