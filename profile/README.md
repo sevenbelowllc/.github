@@ -4,7 +4,7 @@
 
 ### Build with discipline. Audit by design.
 
-[**sevenbelow.com**](https://www.sevenbelow.com) · [LinkedIn](https://www.linkedin.com/company/sevenbelow) · [dev@sevenbelow.com](mailto:dev@sevenbelow.com)
+[**sevenbelow.com**](https://www.sevenbelow.com) · [LinkedIn](https://www.linkedin.com/company/sevenbelow) · [info@sevenbelow.com](mailto:info@sevenbelow.com)
 
 <br />
 
@@ -18,7 +18,7 @@
 
 A modern compliance management platform for teams that want SOC 2, GDPR, and NIST CSF 2.0 readiness to feel like software — not spreadsheets. AI-assisted onboarding, policy authoring, evidence collection, and control mapping, with human review at every step.
 
-Interested in early access, partnership, or evaluation: **<dev@sevenbelow.com>**.
+Interested in early access, partnership, or evaluation: **<info@sevenbelow.com>**.
 
 ---
 
