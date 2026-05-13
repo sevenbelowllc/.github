@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sevenbelowllc/.github/main/profile/assets/sevenbelow-wordmark.png" alt="SevenBelow" width="420" />
 
-### Compliance OS — multi-tenant compliance management for modern teams
+### ComplyOS — multi-tenant compliance management for modern teams
 
 [**sevenbelow.com**](https://www.sevenbelow.com) · [LinkedIn](https://www.linkedin.com/company/sevenbelow) · [dev@sevenbelow.com](mailto:dev@sevenbelow.com)
 
@@ -16,7 +16,7 @@
 
 ## What we build
 
-**Compliance OS** is a SOC 2 + GDPR + NIST CSF 2.0 platform that pairs strict tenant isolation with an AI agent runtime — so onboarding, policy authoring, evidence collection, and control mapping stop being spreadsheets and start being software.
+**ComplyOS** is a SOC 2 + GDPR + NIST CSF 2.0 platform that pairs strict tenant isolation with an AI agent runtime — so onboarding, policy authoring, evidence collection, and control mapping stop being spreadsheets and start being software.
 
 | Module | Stack | Purpose |
 |--------|-------|---------|
@@ -37,7 +37,7 @@
 
 ## Status
 
-Compliance OS is in active development on `nonprod` (`https://integration.sevenbelow.com`). Public repos surface platform components and tooling; production rollout follows the standard SOC 2 readiness path.
+ComplyOS is in active development on `nonprod` (`https://integration.sevenbelow.com`). Public repos surface platform components and tooling; production rollout follows the standard SOC 2 readiness path.
 
 For partnership, evaluation, or hiring: **<dev@sevenbelow.com>**.
 
